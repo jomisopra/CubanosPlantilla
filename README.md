@@ -1,0 +1,2 @@
+# CubanosPlantilla
+Plantilla manuel
